@@ -1,0 +1,7 @@
+Django >=5.2
+python-dotenv
+ipfshttpclient
+pycryptodome
+web3
+requests
+gunicorn
